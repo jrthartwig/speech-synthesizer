@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "igKybyDkJDDVUlH5di3hP1TtyJPy8/nSuEk1ouf2DLayyzCeBwpQ/+4T9fgsgq/F29jgYvqz8kgfXmQ7h3ibeA==",
+  "success": true,
+  "projectFilePath": "/Users/jocelynnhartwig/Dev/speech-synthesizer/speech-synthesizer.csproj",
+  "expectedPackageFiles": [
+    "/Users/jocelynnhartwig/.nuget/packages/microsoft.cognitiveservices.speech/1.15.0/microsoft.cognitiveservices.speech.1.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
